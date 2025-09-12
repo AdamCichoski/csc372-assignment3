@@ -1,0 +1,55 @@
+div{
+    border: solid black 1px;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+div p{
+    margin: 10px;
+}
+
+.pageItem{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+nav{
+    padding: 15px;
+    background-color: rgb(7, 7, 108);
+    display:block;
+    border-radius: 5px;
+}
+
+nav a{
+    color:antiquewhite;
+    font-size: 15px;
+    padding-bottom: 15px;
+    padding-left: 8px;
+    padding-right: 9px;
+    padding-top: 16px;
+    display: inline;
+}
+nav div{
+    margin-left: 10%;
+}
+
+nav a:hover{
+    background-color: rgb(62, 62, 169);
+}
+
+.card{
+    background-color: antiquewhite;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+table{
+    margin: auto;
+}
+
+tr{
+    text-align:  left;
+}
